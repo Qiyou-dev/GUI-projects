@@ -1,2 +1,3 @@
 # GUI-projects
-Projects with a GUI
+
+An implementation of Minesweeper with GUI using Java Swing
